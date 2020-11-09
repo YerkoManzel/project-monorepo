@@ -29,6 +29,12 @@
     "chat-e2e": {
       "tags": [],
       "implicitDependencies": ["chat"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "shared": {
+      "tags": []
     }
   }
 }
